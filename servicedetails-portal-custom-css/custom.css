@@ -1,0 +1,4 @@
+/* Removing background of Service Details in portal */
+#service_details_placeholder fieldset{
+	background-color: #ffffff;
+}
